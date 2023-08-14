@@ -1,0 +1,19 @@
+.container {
+    text-align: center;
+    margin-left: 5%;
+    padding-top: 10%;
+}
+
+
+
+.label {
+    color: white;
+    font-size: 2rem;
+    margin-right: 5px;
+}
+
+.btn {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 10%;
+}

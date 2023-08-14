@@ -1,0 +1,12 @@
+.container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding-top: 10px;
+}
+
+.btn{
+    height: 40px;
+    width: 60px;
+    margin-top: 30px;
+}
